@@ -5,23 +5,32 @@ This is a free-to-use custom mission pack for the game Flashing Lights.
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/40bea6f5-025e-4e57-8308-07e651ba4bde" width="300">
-      <div>mCarAccidentWithFire1 in Mission Editor</div>
+      <img src="https://github.com/user-attachments/assets/40bea6f5-025e-4e57-8308-07e651ba4bde">
+      <div><a href="mCarAccidentWithFire1.mission">mCarAccidentWithFire1</a> in Mission Editor</div>
     </td>
-    <!--<td align="center">
-      <img src="https://github.com/user-attachments/assets/40bea6f5-025e-4e57-8308-07e651ba4bde" width="300">
-      <div>mCarAccidentWithFire1 in Mission Editor</div>
-    </td>-->
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/794794a6-f500-4db0-823f-b62305bc0b25">
+      <div><a href="mCarAccidentAndRunover2.mission">mCarAccidentAndRunover2</a> in Mission Editor</div>
+    </td>
   </tr>
-  <!-- Következő sor -->
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7f69663a-e4ff-4abd-8efc-5d280f3c7681">
+      <div><a href="mCarHit1.mission">mCarHit1</a> in Mission Editor</div>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4ed831b4-fa53-49ed-970d-dc1c21789cc4">
+      <div><a href="mIllegalParking2.mission">mIllegalParking2</a> in Mission Editor</div>
+    </td>
+  </tr>
   <!--<tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/40bea6f5-025e-4e57-8308-07e651ba4bde" width="300">
-      <div>Másik kép leírása</div>
+      <img src="">
+      <div><a href=".mission"></a></div>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/40bea6f5-025e-4e57-8308-07e651ba4bde" width="300">
-      <div>Másik kép leírása</div>
+      <img src="">
+      <div><a href=".mission"></a></div>
     </td>
   </tr>-->
 </table>
