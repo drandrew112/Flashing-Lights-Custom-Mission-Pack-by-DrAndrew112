@@ -5,7 +5,7 @@ This is a free-to-use custom mission pack for the game Flashing Lights.
 - Official copy of Flashing Lights game - [Steam link](https://store.steampowered.com/app/605740/Flashing_Lights__Police_Firefighting_Emergency_Services_EMS_Simulator/)
 
 ## How to install
-- Copy all .mission files from Missions folder to ..\AppData\LocalLow\NilsJakrins\flashinglights
+- Copy all .mission files to ..\AppData\LocalLow\NilsJakrins\flashinglights
 - Start the game in single player mode
 - Press F6, then open the Missions menu.
 - Currently, it is only possible to import missions one by one at this time, so you will need to load it one by one...
