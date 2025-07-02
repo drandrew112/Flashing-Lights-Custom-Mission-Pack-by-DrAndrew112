@@ -1,5 +1,13 @@
-# DrAndrew112's Custom mission pack for Flashing Lights
-This is a free-to-use custom mission pack for the game Flashing Lights.
+<div align="center">
+<h1>DrAndrew112's Custom mission pack for Flashing Lights</h1>
+<!--<img src="https://europe1.discourse-cdn.com/unity/original/4X/9/f/a/9fae96ef2d792038ef4e2c0383484582ce4909b5.gif" width="120" height="auto"/>
+<img src="https://europe1.discourse-cdn.com/unity/original/4X/9/f/a/9fae96ef2d792038ef4e2c0383484582ce4909b5.gif" width="120" height="auto"/>-->
+<p>
+  This is a free-to-use custom mission pack for the game Flashing Lights.<br/>
+  It contains a <b>total of 56</b> missions and <b>20 different mission types</b>.
+</p>
+<hr/>
+</div>
 
 ## Screenshots
 <table>
@@ -46,52 +54,83 @@ This is a free-to-use custom mission pack for the game Flashing Lights.
 You don't have to import all the missions because they are not related to each other.
 
 ## Mission types
-Coming soon...
-
-## Changelog
-### Update v1.1 - 07.01.2025
-**NEW MISSIONS:**
-- mCarAccidentAndRunover2
-- mCarAccidentWithAgressiveDriver2
-- mCarAccidentWithFire2
-- mHitAndRun2
-- mHitAndRun3
-- mHitAndRun4
-- mIllegalParking1
-- mIllegalParking2
-- mIllegalParking3
-
-### v1.0 - 06/26/2025
-- mCarAccident1
-- mCarAccident2
-- mCarAccident3
-- mCarAccidentAndRunover1
-- mCarAccidentWithAgressiveDriver1
-- mCarAccidentWithFire1
-- mCarFire1
-- mCarFire2
-- mCarFire3
-- mCarHit1
-- mFellAtConstruction1
-- mFellAtConstruction2
-- mFellFromHeight1
-- mFellFromHeight2
-- mFellStairs1
-- mFellStairs2
-- mHitAndRun1
-- mHostageSituation1
-- mOfficersFoundUnunconscious1
-- mParkingViolation1
-- mParkingViolation2
-- mParkingViolation3
-- mRobbery1
-- mRobbery2
-- mRobberyWithHostages1
-- mShoot1
-- mTrainSpottersFellDown1
-- mTrashFire1
-- mTrashFire2
-- mUnunconscious1
-- mUnunconscious2
-- mUnunconscious3
-- mUnunconscious4
+<details open>
+  <summary>Car accident (3)</summary>
+  Minor and major car accidents. 2 or more injured.
+</details>
+<details open>
+  <summary>Car accident with runover (2)</summary>
+  Car accident where there was a run-over. Usually 3 people are injured, but there are times when the driver of the car collides with the landmarks and not with another car.
+</details>
+<details open>
+  <summary>Car accident with agressive driver (2)</summary>
+  There are car accidents where one driver becomes aggressive and attacks the other driver and the arriving police and paramedics.
+</details>
+<details open>
+  <summary>Car accident with fire (2)</summary>
+  In major accidents, unfortunately, a car can start to catch fire. 
+</details>
+<details open>
+  <summary>Car fire (3)</summary>
+  In most cases, police rescue injured people before the ambulance arrives. Firefighters are also needed because of the fire. In some cases, firefighters have to rescue the injured.
+</details>
+<details open>
+  <summary>Car hit (1)</summary>
+  A car hits a pedestrian. The car driver stays at the scene and calls the ambulance.
+</details>
+<details open>
+  <summary>Fell from height at construction (2)</summary>
+  Someone was careless at the construction site and fell from a height.
+</details>
+<details open>
+  <summary>Fell from height (2)</summary>
+  Someone fell from a height.
+</details>
+<details open>
+  <summary>Fell from stairs (2)</summary>
+  Someone fell down the stairs and was injured. Possible broken bones
+</details>
+<details open>
+  <summary>Hit and run (4)</summary>
+  Average hit and run. The driver left the scene. A police officer or another person calls an ambulance.
+</details>
+<details open>
+  <summary>Hostage situation (1)</summary>
+  Some armed criminals have taken hostages. In such cases, multiple police units may be needed.
+</details>
+<details open>
+  <summary>Illegal parking (3)</summary>
+  Car parked at hospital, fire station, police department or blocking the road anywhere. Requires immediate towing.
+</details>
+<details open>
+  <summary>Officers found unconscious person (1)</summary>
+  Police officers found an unconscious person on the street.
+</details>
+<details open>
+  <summary>Parking violation (3)</summary>
+  A car stopped in the wrong place, but it's not blocking traffic. (In v1.1, towing is still required)
+</details>
+<details open>
+  <summary>Robbery (2)</summary>
+  Shop or restaurant robbery. Possible injuries at the scene.
+</details>
+<details open>
+  <summary>Robbery with hostages (1)</summary>
+  Restaurant or store robbery. The criminals have taken hostages and there are probably some injuries.
+</details>
+<details open>
+  <summary>Active shooter (1)</summary>
+  There is an active shooter in the city. It requires immediate police intervention. In many cases, ambulances are also needed.
+</details>
+<details open>
+  <summary>Train spotter fell down (1)</summary>
+  One or more train photographers were injured. The tracks are quite high in many places and there is a risk of falling. Due to the incident, rail traffic was stopped on the section.
+</details>
+<details open>
+  <summary>Trash fire (2)</summary>
+  There's a trash burning somewhere in the city.
+</details>
+<details open>
+  <summary>Unconscious person (4)</summary>
+  Someone lost consciousness on the street. Possible cardiac arrest.
+</details>
