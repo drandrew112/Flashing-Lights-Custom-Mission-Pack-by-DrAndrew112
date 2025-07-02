@@ -4,7 +4,7 @@
 <img src="https://europe1.discourse-cdn.com/unity/original/4X/9/f/a/9fae96ef2d792038ef4e2c0383484582ce4909b5.gif" width="120" height="auto"/>-->
 <p>
   This is a free-to-use custom mission pack for the game Flashing Lights.<br/>
-  It contains a <b>total of 56</b> missions and <b>20 different mission types</b>.
+  It contains a <b>total of 63</b> missions and <b>20 different mission types</b>.
 </p>
 <hr/>
 </div>
