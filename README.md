@@ -55,82 +55,82 @@ You don't have to import all the missions because they are not related to each o
 
 ## Mission types
 <details open>
-  <summary>Car accident (3)</summary>
+  <summary>Car accident</summary>
   Minor and major car accidents. 2 or more injured.
 </details>
 <details open>
-  <summary>Car accident with runover (2)</summary>
+  <summary>Car accident with runover</summary>
   Car accident where there was a run-over. Usually 3 people are injured, but there are times when the driver of the car collides with the landmarks and not with another car.
 </details>
 <details open>
-  <summary>Car accident with agressive driver (2)</summary>
+  <summary>Car accident with agressive driver</summary>
   There are car accidents where one driver becomes aggressive and attacks the other driver and the arriving police and paramedics.
 </details>
 <details open>
-  <summary>Car accident with fire (2)</summary>
+  <summary>Car accident with fire</summary>
   In major accidents, unfortunately, a car can start to catch fire. 
 </details>
 <details open>
-  <summary>Car fire (3)</summary>
+  <summary>Car fire</summary>
   In most cases, police rescue injured people before the ambulance arrives. Firefighters are also needed because of the fire. In some cases, firefighters have to rescue the injured.
 </details>
 <details open>
-  <summary>Car hit (1)</summary>
+  <summary>Car hit</summary>
   A car hits a pedestrian. The car driver stays at the scene and calls the ambulance.
 </details>
 <details open>
-  <summary>Fell from height at construction (2)</summary>
+  <summary>Fell from height at construction</summary>
   Someone was careless at the construction site and fell from a height.
 </details>
 <details open>
-  <summary>Fell from height (2)</summary>
+  <summary>Fell from height</summary>
   Someone fell from a height.
 </details>
 <details open>
-  <summary>Fell from stairs (2)</summary>
+  <summary>Fell from stairs</summary>
   Someone fell down the stairs and was injured. Possible broken bones
 </details>
 <details open>
-  <summary>Hit and run (4)</summary>
+  <summary>Hit and run</summary>
   Average hit and run. The driver left the scene. A police officer or another person calls an ambulance.
 </details>
 <details open>
-  <summary>Hostage situation (1)</summary>
+  <summary>Hostage situation</summary>
   Some armed criminals have taken hostages. In such cases, multiple police units may be needed.
 </details>
 <details open>
-  <summary>Illegal parking (3)</summary>
+  <summary>Illegal parking</summary>
   Car parked at hospital, fire station, police department or blocking the road anywhere. Requires immediate towing.
 </details>
 <details open>
-  <summary>Officers found unconscious person (1)</summary>
+  <summary>Officers found unconscious person</summary>
   Police officers found an unconscious person on the street.
 </details>
 <details open>
-  <summary>Parking violation (3)</summary>
-  A car stopped in the wrong place, but it's not blocking traffic. (In v1.1, towing is still required)
+  <summary>Parking violation</summary>
+  A car stopped in the wrong place, but it's not blocking traffic.
 </details>
 <details open>
-  <summary>Robbery (2)</summary>
+  <summary>Robbery</summary>
   Shop or restaurant robbery. Possible injuries at the scene.
 </details>
 <details open>
-  <summary>Robbery with hostages (1)</summary>
+  <summary>Robbery with hostages</summary>
   Restaurant or store robbery. The criminals have taken hostages and there are probably some injuries.
 </details>
 <details open>
-  <summary>Active shooter (1)</summary>
+  <summary>Active shooter</summary>
   There is an active shooter in the city. It requires immediate police intervention. In many cases, ambulances are also needed.
 </details>
 <details open>
-  <summary>Train spotter fell down (1)</summary>
+  <summary>Train spotter(s) fell down</summary>
   One or more train photographers were injured. The tracks are quite high in many places and there is a risk of falling. Due to the incident, rail traffic was stopped on the section.
 </details>
 <details open>
-  <summary>Trash fire (2)</summary>
+  <summary>Trash fire</summary>
   There's a trash burning somewhere in the city.
 </details>
 <details open>
-  <summary>Unconscious person (4)</summary>
+  <summary>Unconscious person</summary>
   Someone lost consciousness on the street. Possible cardiac arrest.
 </details>
