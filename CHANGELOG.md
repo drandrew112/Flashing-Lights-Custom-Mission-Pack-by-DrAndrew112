@@ -4,6 +4,22 @@
 <hr/>
 </div>
 
+## Update - v1.2 - 07/02/2025
+### Added
+- mRobbery3
+- mHitAndRun5
+- mActiveShooter2
+- mActiveShooter3
+- mActiveShooter4
+- mHostageSituation2
+- mTrainSpottersFellDown2
+### Fixed
+- mShoot1 -> mActiveShooter1 - renamed
+- mParkingViolation1 - no tow needed
+- mParkingViolation2 - no tow needed
+- mParkingViolation3 - no tow needed
+
+
 ## Update - v1.1 - 07.01.2025
 ### Added
 - mCarAccidentAndRunover2
